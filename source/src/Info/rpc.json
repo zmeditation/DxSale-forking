@@ -1,0 +1,54 @@
+[
+  {
+    "chainId": 1,
+    "rpc": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
+  },
+  {
+    "chainId": 3,
+    "rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
+  },
+  {
+    "chainId": 4,
+    "rpc": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
+  },
+  {
+    "chainId": 5,
+    "rpc": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
+  },
+  {
+    "chainId": 42,
+    "rpc": "https://kovan.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
+  },
+  {
+    "chainId": 1337,
+    "rpc": "http://localhost:8545"
+  },
+  {
+    "chainId": 137,
+    "rpc": "https://rpc-mainnet.maticvigil.com"
+  },
+  {
+    "chainId": 1666600000,
+    "rpc": "https://api.s0.t.hmny.io"
+  },
+  {
+    "chainId": 56,
+    "rpc": "https://bsc-dataseed.binance.org"
+  },
+  {
+    "chainId": 321,
+    "rpc": "https://rpc-mainnet.kcc.network"
+  },
+  {
+    "chainId": 100,
+    "rpc": "https://rpc.xdaichain.com/"
+  },
+  {
+    "chainId": 43114,
+    "rpc": "https://api.avax.network/ext/bc/C/rpc"
+  },
+  {
+    "chainId": 250,
+    "rpc": "https://rpcapi.fantom.network"
+  }
+]
